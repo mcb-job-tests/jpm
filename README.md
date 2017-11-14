@@ -1,1 +1,1 @@
-# jp morgan chase Java messaging coding challange
+# JP Morgan Chase - Java messaging coding challange
